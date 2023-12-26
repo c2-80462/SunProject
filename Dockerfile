@@ -10,4 +10,4 @@ COPY submit.php /var/www/html/submit.php
 COPY success.php /var/www/html/success.php
 
 # Expose port 80
-EXPOSE 
+EXPOSE 80 
